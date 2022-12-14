@@ -1,0 +1,42 @@
+.caja-arriba{
+  display: flex;
+  justify-content: flex-end;
+  border: 2px solid black;
+
+}
+
+
+
+.caja-abajo{
+  border: 2px solid black; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+
+}
+.imagen{
+  border: 2px solid black;
+ 
+}
+    
+.buscador{
+  border: 2px solid black;
+  margin: 20px;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 15%;
+}
+
+.botones {
+  
+  
+}
+
+.bt1{
+  border-radius: 4%;;
+}
+
+.bt2{
+  border-radius: 4%;;
+}
